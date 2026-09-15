@@ -78,7 +78,7 @@ export function SiteHeader() {
       </div>
       <div className="pointer-events-auto flex basis-1/3 items-center justify-end gap-2">
         <a
-          href="/ColDron_submission.pdf"
+          href="https://github.com/DavidDaza2906/rare-once-it-costs-anything-costly-cooperation-between-llm-agents/blob/main/paper/latex/main.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="flex cursor-pointer items-center gap-2 rounded-full bg-red-500 px-4 py-1.5 text-sm font-medium text-white shadow-none transition-colors hover:bg-red-600"
